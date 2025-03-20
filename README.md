@@ -20,7 +20,6 @@ Axios → Comunicação com a API backend
 
 Vue Router → Gerenciamento de rotas
 
-Vuex (ou Pinia) → Gerenciamento de estado (se necessário)
 
 Outras ferramentas poderão ser adicionadas conforme a necessidade do desenvolvimento.
 
