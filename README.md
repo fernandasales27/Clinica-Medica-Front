@@ -5,21 +5,19 @@
 O Sistema Automatizado de Coleta de Dados Clínicos tem como objetivo modernizar e otimizar a coleta de informações de pacientes, reduzindo erros manuais e garantindo conformidade com a Lei Geral de Proteção de Dados (LGPD). A plataforma web permitirá o armazenamento seguro de informações clínicas e oferecerá ferramentas para análise e previsão do perfil dos pacientes.
 
 ## 🚀 Tecnologias Utilizadas
-
 O frontend do projeto será desenvolvido utilizando as seguintes tecnologias:
 
 HTML5 → Estruturação das páginas
 
 CSS3 → Estilização e responsividade
 
-JavaScript → Interatividade e manipulação do DOM
+JavaScript/TypeScript → Linguagem principal do desenvolvimento
 
-Vue.js → Framework para construção da interface dinâmica
+Vue.js ou React.js → O framework ainda será definido, mas React está sendo fortemente considerado para manter compatibilidade com a equipe de Mobile (React Native)
 
 Axios → Comunicação com a API backend
 
-Vue Router → Gerenciamento de rotas
-
+React Router ou Vue Router → Gerenciamento de rotas (dependendo da escolha do framework)
 
 Outras ferramentas poderão ser adicionadas conforme a necessidade do desenvolvimento.
 
